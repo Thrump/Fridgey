@@ -2,3 +2,4 @@
 "# Relic" 
 "# KunosabaBot" 
 "# KunosabaBot" 
+"# KunosubaBot" 
